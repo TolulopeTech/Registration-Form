@@ -1,0 +1,21 @@
+/* Set the background image */
+.bg-image {
+    background-image: url('../images/vscode-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Center the form and add some padding */
+.min-vh-100 {
+    min-height: 100vh;
+}
+
+/* Add a shadow and rounded corners to the form */
+.shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.rounded {
+    border-radius: 10px;
+}
